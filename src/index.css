@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color:#EEF1FF;
+}
+
+.box{
+  width: 150px;
+  height: 150px;
+  border: 2px solid #B1B2FF;
+  display: inline-block;
+  margin: 10px;
+  border-radius: 20px;
+}
