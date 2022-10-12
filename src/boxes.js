@@ -1,4 +1,3 @@
-
 const boxes = [
     {
         id: 1,
