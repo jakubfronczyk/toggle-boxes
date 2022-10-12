@@ -10,7 +10,6 @@ function App() {
       <Box key={square.id} id={square.id} on={square.on} toggle={()=>toggle(square.id)}/>
     ))
     
-
     function toggle(id){
       // ---------------
       // IMPERATIVE WAY
